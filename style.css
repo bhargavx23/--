@@ -206,7 +206,7 @@ label {
   color: black;
   position: absolute;
 }
-.scrollup{
+.scrollup,.scrollup img{
 display: none;
   
 }
