@@ -424,6 +424,7 @@ a .pressbtn2 {
   padding: 10px 20px;
   border-radius: 30px;
   text-decoration: none;
+  border:none;
   cursor:pointer;
   position: absolute;
   bottom: 20px;
@@ -461,6 +462,7 @@ a .pressbtn {
   position: absolute;
   bottom: 20px;
   cursor: pointer;
+  border:none;
   background: rgb(2, 2, 2);
   color: rgb(253, 253, 253);
   font-size: 18px;
