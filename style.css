@@ -1021,7 +1021,7 @@ footer {
     cursor: pointer;
   }
   .scrollup img{
-    height: 29px;
+    height: 25px;
         animation: op2,slidedown2 ease 1.6s infinite both;
 
   }
